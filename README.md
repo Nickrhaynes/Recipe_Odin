@@ -1,1 +1,2 @@
 # Recipe_Odin
+With prompts from the Odin Project I will be using the HTML format to create a recipe website.  I will use all of the tools shown to me so far including text formatting, embedded images, and links to other sources.
