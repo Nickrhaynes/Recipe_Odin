@@ -6,7 +6,12 @@ body {
 }
 
 .description {
-    background-color: blanchedalmond;
-    font-size: 30px;
+    background-color: lightcyan;
+    font-size: 20px;
     color: darkgoldenrod;
+}
+
+li {
+    background-color: lightcyan;
+    color: rgb(146, 116, 38);
 }
