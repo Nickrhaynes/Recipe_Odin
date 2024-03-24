@@ -2,4 +2,11 @@
 
 body {
     color: darkolivegreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.description {
+    background-color: blanchedalmond;
+    font-size: 30px;
+    color: darkgoldenrod;
 }
