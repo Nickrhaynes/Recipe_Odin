@@ -9,7 +9,7 @@ body {
 
 .description {
     font-size: 20px;
-    max-width: 65%;
+    max-width: 75%;
     
 }
 
@@ -18,12 +18,16 @@ li {
 }
 
 h1 {
-    color: #4c20a5;
+    color: gray;
+    border: 3px solid lightblue;
+    text-align: center;
+    width: 500px;
 }
 
 h3 {
     align-items: center;
     border: 3px solid lightblue;
     padding: 10px;
-    margin-left: 60px;
+    margin: 60px;
+    width: 160px;
 }
