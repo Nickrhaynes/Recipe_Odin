@@ -9,10 +9,11 @@ body {
 
 .description {
     font-size: 20px;
+    max-width: 65%;
+    
 }
 
 li {
-    border: 3px solid black;
     padding: 2px
 }
 
@@ -20,3 +21,9 @@ h1 {
     color: #4c20a5;
 }
 
+h3 {
+    align-items: center;
+    border: 3px solid lightblue;
+    padding: 10px;
+    margin-left: 60px;
+}
